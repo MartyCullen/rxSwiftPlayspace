@@ -3,12 +3,15 @@
     <pages>
         <page name='Observable Sequences'/>
         <page name='Subjects'/>
-        <page name='Map'/>
-        <page name='FlatMap'/>
-        <page name='Scan'/>
+        <page name='Transform (Map)'/>
+        <page name='Transform (FlatMap)'/>
+        <page name='Transform (Scan)'/>
         <page name='Buffer'/>
         <page name='Filter'/>
-        <page name='DistinctUntilChanged'/>
+        <page name='Filter (DistinctUntilChanged)'/>
+        <page name='Filter (Debounce)'/>
+        <page name='Filter (TakeDuration)'/>
+        <page name='Filter (Skip)'/>
         <page name='Combine (startWith)'/>
         <page name='Combine (merge)'/>
         <page name='Combine (zip)'/>
