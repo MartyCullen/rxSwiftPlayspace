@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Observable Sequences'/>
+        <page name='Subjects'/>
+        <page name='Map'/>
+        <page name='FlatMap'/>
+        <page name='Scan'/>
+        <page name='Buffer'/>
+        <page name='Filter'/>
+        <page name='DistinctUntilChanged'/>
+        <page name='Combine (startWith)'/>
+        <page name='Combine (merge)'/>
+        <page name='Combine (zip)'/>
+        <page name='Do On'/>
+        <page name='Schedulers'/>
+    </pages>
+</playground>
