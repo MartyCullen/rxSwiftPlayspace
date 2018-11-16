@@ -15,6 +15,9 @@
         <page name='Combine (startWith)'/>
         <page name='Combine (merge)'/>
         <page name='Combine (zip)'/>
+        <page name='Combine (Concat)'/>
+        <page name='Combine (CombineLatest)'/>
+        <page name='Combine (SwitchLatest)'/>
         <page name='Do On'/>
         <page name='Schedulers'/>
     </pages>
